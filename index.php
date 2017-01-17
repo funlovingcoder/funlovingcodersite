@@ -80,7 +80,7 @@
 					<div class="col-md-12 text-center"><img src="img/about.jpg" class="img-responsive"></div>
 					<div class="col-md-8 col-md-offset-2">
 						<div class="about-text">
-							<p>I am Salesforce platfform I certified Salesforce Developer, currently working with 'Concretio Apps Pvt. Ltd.'.</p>
+							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Concretio Apps Pvt. Ltd.</b>.</p>
 							<p class="text-center"><a class="btn btn-primary" href="#contact" ><i class="fa fa-download"></i> Contact Me</a></p>
 						</div>
 					</div>
@@ -330,7 +330,7 @@
 					<div class="social">
 						<ul>
 							<li><a href="https://www.facebook.com/funlovingcoder"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="https://twitter.com/lalit9799991992"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://twitter.com/funlovingcoder"><i class="fa fa-twitter"></i></a></li>
 							<!--          <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
 							<!--          <li><a href="#"><i class="fa fa-github"></i></a></li>-->
 							<li><a href="https://www.instagram.com/fun_loving_coder"><i class="fa fa-instagram"></i></a></li>
