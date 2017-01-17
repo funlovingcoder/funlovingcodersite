@@ -79,9 +79,9 @@
 				<div class="row">
 					<div class="col-md-12 text-center"><img src="img/about.jpg" class="img-responsive"></div>
 					<div class="col-md-8 col-md-offset-2">
-						<div class="about-text">
-							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Concretio Apps Pvt. Ltd.</b>.</p>
-							<p class="text-center"><a class="btn btn-primary" href="#contact" ><i class="fa fa-download"></i> Contact Me</a></p>
+						<div class="about-text" style="text-align: center;">
+							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Concretio Apps Pvt. Ltd.</b></p>
+							<p class="text-center"><a class="btn btn-primary" href="#contact" ><i class="fa fa-envelope"></i>Let's have some words...</a></p>
 						</div>
 					</div>
 				</div>
