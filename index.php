@@ -140,13 +140,13 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
 						<div class="achievement-box">
-							<span class="count">32025</span>
+							<span class="count">37025</span>
 							<h4>Trailhead Points</h4>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
 						<div class="achievement-box">
-							<span class="count">29</span>
+							<span class="count">33</span>
 							<h4>Trailhead Badges</h4>
 						</div>
 					</div>
