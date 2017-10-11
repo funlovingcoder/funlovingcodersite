@@ -158,7 +158,7 @@
 					</div>
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
 						<div class="achievement-box">
-							<span class="count">2</span>
+							<span class="count">3</span>
 							<h4>Years of Experience</h4>
 						</div>
 					</div>
@@ -185,7 +185,7 @@
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h4>Concretio Apps</h4>
-										<h4 class="subheading">Salesforce Developer</h4>
+										<h4 class="subheading">Salesforce Developer/Consultant</h4>
 									</div>
 								</div>
 							</li>
