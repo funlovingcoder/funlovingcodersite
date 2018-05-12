@@ -89,7 +89,7 @@
 					<div class="col-md-12 text-center"><img src="img/about.jpg" class="img-responsive"></div>
 					<div class="col-md-8 col-md-offset-2">
 						<div class="about-text" style="text-align: center;">
-							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Concretio Apps Pvt. Ltd.</b></p>
+							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Deloitte India(Office of the US)</b></p>
 							<p class="text-center"><a class="btn btn-primary" href="#contact" ><i class="fa fa-envelope"></i>Let's have some words...</a></p>
 						</div>
 					</div>
@@ -179,9 +179,23 @@
 						<ul class="timeline">
 							<li>
 								<div class="timeline-image">
-									<h4>July 2015 <br>
+									<h4>Apr 2018 <br>
 										- <br>
 										Present 
+									</h4>
+								</div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h4>Deloitte India</h4>
+										<h4 class="subheading">Consultant</h4>
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="timeline-image">
+									<h4>July 2015 <br>
+										- <br>
+										May 2018 
 									</h4>
 								</div>
 								<div class="timeline-panel">
