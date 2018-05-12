@@ -105,24 +105,24 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 skill">
-						<span class="chart" data-percent="95"> <span class="percent">95</span> </span>
-						<h4>HTML5</h4>
+						<span class="chart" data-percent="80"> <span class="percent">80</span> </span>
+						<h4>Lightning</h4>
 					</div>
 					<div class="col-md-4 col-sm-6 skill">
-						<span class="chart" data-percent="85"> <span class="percent">80</span> </span>
+						<span class="chart" data-percent="95"> <span class="percent">95</span> </span>
 						<h4>Salesforce Apex</h4>
 					</div>
 					<div class="col-md-4 col-sm-6 skill">
-						<span class="chart" data-percent="80"> <span class="percent">90</span> </span>
+						<span class="chart" data-percent="90"> <span class="percent">90</span> </span>
 						<h4>Salesforce Integration</h4>
 					</div>
 					<div class="col-md-4 col-sm-6 skill">
-						<span class="chart" data-percent="90"> <span class="percent">85</span> </span>
-						<h4>CSS3</h4>
+						<span class="chart" data-percent="80"> <span class="percent">80</span> </span>
+						<h4>Javascript</h4>
 					</div>
 					<div class="col-md-4 col-sm-6 skill">
-						<span class="chart" data-percent="80"> <span class="percent">80</span> </span>
-						<h4>jQuery</h4>
+						<span class="chart" data-percent="70"> <span class="percent">70</span> </span>
+						<h4>Designing</h4>
 					</div>
 					<div class="col-md-4 col-sm-6 skill">
 						<span class="chart" data-percent="70"> <span class="percent">70</span> </span>
@@ -142,13 +142,13 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
 						<div class="achievement-box">
-							<span class="count">37025</span>
+							<span class="count">44125</span>
 							<h4>Trailhead Points</h4>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
 						<div class="achievement-box">
-							<span class="count">33</span>
+							<span class="count">37</span>
 							<h4>Trailhead Badges</h4>
 						</div>
 					</div>
@@ -160,7 +160,7 @@
 					</div>
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
 						<div class="achievement-box">
-							<span class="count">3</span>
+							<span class="count">3+</span>
 							<h4>Years of Experience</h4>
 						</div>
 					</div>
