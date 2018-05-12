@@ -177,7 +177,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<ul class="timeline">
-							<li>
+							<li class="timeline-inverted">
 								<div class="timeline-image">
 									<h4>Apr 2018 <br>
 										- <br>
