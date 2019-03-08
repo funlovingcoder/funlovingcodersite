@@ -50,7 +50,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="intro-text">
-							<h1 class="BackColor">Hello, I'm <span class="name">Lalit Sharma</span></h1>
+							<h1 class="BackColor">Hello, I'm <span class="name">Lalit Kishor</span></h1>
 							<!--          <p>Salesforce Developer & Front End Designer</p>-->
 							<a href="#about" class="btn btn-default btn-lg page-scroll">Learn More</a> 
 						</div>
@@ -89,7 +89,7 @@
 					<div class="col-md-12 text-center"><img src="img/about.jpg" class="img-responsive"></div>
 					<div class="col-md-8 col-md-offset-2">
 						<div class="about-text" style="text-align: center;">
-							<p>I am Salesforce platform I certified Salesforce Developer.<br />Working with <b>Deloitte India(Office of the US)</b></p>
+							<p>2x certified Salesforce Consultant.<br />Working with <b>Deloitte India(Office of the US)</b></p>
 							<p class="text-center"><a class="btn btn-primary" href="#contact" ><i class="fa fa-envelope"></i>Let's have some words...</a></p>
 						</div>
 					</div>
@@ -142,13 +142,13 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="400ms">
 						<div class="achievement-box">
-							<span class="count">44125</span>
+							<span class="count">78475</span>
 							<h4>Trailhead Points</h4>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="800ms">
 						<div class="achievement-box">
-							<span class="count">37</span>
+							<span class="count">47</span>
 							<h4>Trailhead Badges</h4>
 						</div>
 					</div>
